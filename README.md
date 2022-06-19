@@ -1,4 +1,4 @@
-## A inline function hook framework for C or C++
+## A function inline hook framework for C or C++
 
 Same example in test subdirectory
 
